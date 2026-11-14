@@ -184,10 +184,11 @@ Esta seção compara o código com o conteúdo das aulas (slides, textos e formu
 
 ```
 .
-├── RJ45Game.java           código do jogo, comentado linha a linha
-├── README.md               este arquivo
+├── RJ45Game.java                       código do jogo, comentado linha a linha
+├── README.md                           este arquivo
 ├── docs/
-│   ├── CONCEITOS-POO.md    conceitos de Java/POO presentes no código, com as linhas
-└── .gitignore              ignora os .class gerados pelo javac
+│   ├── CONCEITOS-POO.md                conceitos de Java/POO presentes no código, com as linhas
+|   ├── diagrama-classes.drawio         código do draw.io do diagrama de classes
+|   ├── diagrama-classes.drawio.png     imagem gerada à partir do draw.io
+└── .gitignore                          ignora os .class gerados pelo javac
 ```
-
