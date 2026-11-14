@@ -1,4 +1,4 @@
-# Monte o cabo de rede — RJ45 / Cat5e
+# Monte o cabo de rede: RJ45 / Cat5e
 
 Jogo em Java (Swing) feito para a disciplina de Programação Orientada a Objetos.
 O jogador monta cabos de rede arrastando os 8 fios para os pinos corretos e depois conecta o cabo a um testador, que acende os LEDs pino a pino e mostra se o link subiu.
